@@ -6,3 +6,5 @@ and add them into the tools list in `chat.py`
 
 Note: you will need to copy `.env.default` into a new file called `.env`, and set the `OPENAI_API_KEY`
 to your own api key in order for this to run.
+
+To set up the repo to run, run `./setup.sh`.
